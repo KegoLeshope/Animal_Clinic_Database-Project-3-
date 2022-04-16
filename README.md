@@ -9,6 +9,9 @@ Login/Database = Kegomoditswe Leshope/Marvin Hope
 Regitser/Database = Siyabonga Masango/Jayden Johnson
 Booking/Database = Tiffany Kiwiets/Raeesah Williams
 
+Client/Server = Marvin Hope
+DOA = ?
+
 Wireframes:
 ==============================
 Login
